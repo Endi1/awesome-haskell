@@ -2,16 +2,25 @@
 
 A curated list of awesome Haskell frameworks, libraries and software.
 
-* [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+## Text processing
 * [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+
+## Web frameworks
 * [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-* [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+* [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+
+## Programming languages
 * [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 * [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
+
+## Package managers
+* [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
+
+## Misc
+* [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+* [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 * [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 * [facebook/Haxl](https://github.com/facebook/Haxl) - A Haskell library that simplifies access to remote data, such as databases or web-based services.
-* [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-* [commercialhaskell/stack](https://github.com/commercialhaskell/stack) - The Haskell Tool Stack
 * [input-output-hk/cardano-sl](https://github.com/input-output-hk/cardano-sl) - Cryptographic currency implementing Ouroboros PoS protocol
 * [sdiehl/write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell) - Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)
 * [xmonad/xmonad](https://github.com/xmonad/xmonad) - The core of xmonad, a small but functional ICCCM-compliant tiling window manager
